@@ -25,27 +25,27 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aman-raj-981a31278" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50px" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://github.com/AmanCodeLogs" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="50px" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://x.com/AmanCodeLogs" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="50px" alt="X" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://discord.gg/8pdcuDyJfB" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" height="50px" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.reddit.com/user/AmanCodeLogs/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=reddit" height="50px" alt="Reddit" />
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:aman.cmviii@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="50px" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
