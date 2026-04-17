@@ -91,7 +91,7 @@
     <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
     <a href="https://www.microsoft.com/windows/" target="_blank"><img src="https://skillicons.dev/icons?i=windows" alt="Windows" /></a>
     <a href="https://www.android.com/" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /></a>
-    <a href="https://www.google.com/chromebook/chrome-os/" target="_blank"><img src="https://img.shields.io/badge/Chrome_OS-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome OS" /></a>
+    <a href="https://chromeos.google/" target="_blank"><img src="https://img.shields.io/badge/Chrome_OS-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome OS" /></a>
   </p>
 </details>
 
