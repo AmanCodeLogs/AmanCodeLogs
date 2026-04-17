@@ -52,27 +52,46 @@
 
   <h3>👨‍💻 Programming Languages</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,go,html,css,js" />
+    <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a>
+    <a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>
+    <a href="https://go.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=go" alt="Go" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
   </p>
 
   <h3>📚 Frameworks & Libraries</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=flask,fastapi,tensorflow,opencv,react,bootstrap,supabase,firebase" />
-    <img src="https://img.shields.io/badge/LangChain-121011?style=for-the-badge&logo=chainlink&logoColor=white" />
+    <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" alt="Flask" /></a>
+    <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" /></a>
+    <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" /></a>
+    <a href="https://opencv.org/" target="_blank"><img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" /></a>
+    <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+    <a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /></a>
+    <a href="https://supabase.com/" target="_blank"><img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" /></a>
+    <a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" /></a>
+    <a href="https://www.langchain.com/" target="_blank"><img src="https://img.shields.io/badge/LangChain-121011?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" /></a>
   </p>
 
   <h3>🚀 Deployment & Tools</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=vscode,arduino,vercel,netlify,render" />
-    <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white" />
-    <img src="https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white" />
+    <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a>
+    <a href="https://www.arduino.cc/" target="_blank"><img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" /></a>
+    <a href="https://vercel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" /></a>
+    <a href="https://www.netlify.com/" target="_blank"><img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" /></a>
+    <a href="https://render.com/" target="_blank"><img src="https://skillicons.dev/icons?i=render" alt="Render" /></a>
+    <a href="https://railway.app/" target="_blank"><img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" /></a>
+    <a href="https://n8n.io/" target="_blank"><img src="https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" /></a>
   </p>
 
   <h3>🗄️ Databases & OS</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=sqlite,linux,windows" />
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-    <img src="https://img.shields.io/badge/Chrome_OS-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <a href="https://www.sqlite.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" /></a>
+    <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
+    <a href="https://www.microsoft.com/windows/" target="_blank"><img src="https://skillicons.dev/icons?i=windows" alt="Windows" /></a>
+    <a href="https://www.android.com/" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /></a>
+    <a href="https://www.google.com/chromebook/chrome-os/" target="_blank"><img src="https://img.shields.io/badge/Chrome_OS-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome OS" /></a>
   </p>
 </details>
 
