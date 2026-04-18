@@ -5,14 +5,11 @@
 
 <h3 align="center">Software Developer | BCA Student @ AKU & Cimage</h3>
 <h4 align="center"> Dedicated Programmer passionate about Backend Solutions & Open Source </h4>
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AmanCodeLogs&theme=radical&no-frame=true&column=4" alt="trophies" />
+  <img src="https://assets10.lottiefiles.com/render/TLf61huVyw.gif" width="300" />
 </p>
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmanCodeLogs&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="Aman's Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanCodeLogs&layout=compact&theme=gotham&langs_count=6" alt="Top Languages" />
+  <img src="./assets/animation.gif" width="300" alt="Programming Animation">
 </p>
 
 <br>
