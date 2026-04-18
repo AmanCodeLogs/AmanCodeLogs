@@ -1,16 +1,12 @@
 ### Hi there 👋
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Aman+Raj;Software+Developer;FREELANCER+Student;Open+Source+Contributor" alt="Aman Raj" />
+<p align="left">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=436&lines=I'm+Aman+Raj;Software+Developer;Freelancer+and+Student;Open+Source+Contributor" alt="Aman Raj" />
 </p>
 
-<h3 align="center">Software Developer | BCA Student @ AKU & Cimage</h3>
-<h4 align="center"> Dedicated Programmer passionate about Backend Solutions & Open Source </h4>
-<p align="center">
-  <img src="https://assets10.lottiefiles.com/render/TLf61huVyw.gif" width="300" />
-</p>
-<p align="center">
-  <img src="./assets/animation.gif" width="300" alt="Programming Animation">
-</p>
+<img align="right" src="./assets/animation.gif" width="250" alt="Programming Animation">
+
+### 👨‍💻 Software Developer | BCA Student @ AKU & Cimage
+#### Dedicated Programmer passionate about Backend Solutions & Open Source 
 
 <br>
 
@@ -20,23 +16,25 @@
 - 👯 **Looking to collaborate on:** PSF (Python Software Foundation) projects & GSoC 2026
 - 🛠️ **Favorite Stack:** Python + SQLite + HTML/CSS
 
+</br>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/aman-raj-981a31278" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://x.com/AmanCodeLogs" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  &nbsp;
+   &nbsp;&nbsp;
   <a href="https://discord.gg/8pdcuDyJfB" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  &nbsp;
+   &nbsp;&nbsp;
   <a href="https://www.reddit.com/user/AmanCodeLogs/" target="_blank">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
   </a>
-  &nbsp;
+   &nbsp;&nbsp;
   <a href="mailto:aman.cmviii@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
