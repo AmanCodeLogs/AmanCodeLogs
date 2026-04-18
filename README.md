@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Aman+Raj;Software+Developer;BCA+Student+@+AKU;Open+Source+Contributor" alt="Aman Raj" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Aman+Raj;Software+Developer;FREELANCER+@+AKU;Open+Source+Contributor" alt="Aman Raj" />
 </p>
 
 <h3 align="center">Software Developer | BCA Student @ AKU & Cimage</h3>
