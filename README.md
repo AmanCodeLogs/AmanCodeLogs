@@ -82,6 +82,7 @@
 
   <h3>🗄️ Databases & OS</h3>
   <p>
+    <a href="https://www.mongodb.org/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" /></a>
     <a href="https://www.sqlite.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" /></a>
     <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
     <a href="https://www.microsoft.com/windows/" target="_blank"><img src="https://skillicons.dev/icons?i=windows" alt="Windows" /></a>
