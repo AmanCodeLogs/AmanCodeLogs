@@ -1,22 +1,24 @@
 ### Hi there 👋
 <p align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=436&lines=I'm+Aman+Raj;Software+Developer;Freelancer+and+Student;Open+Source+Contributor" alt="Aman Raj" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=436&lines=I'm+Aman+Raj;Software+Developer;Backend+Engineer;Open+Source+Contributor" alt="Aman Raj" />
 </p>
 
 <img align="right" src="./assets/animation.gif" width="250" alt="Programming Animation">
 
 ### 👨‍💻 Software Developer | BCA Student @ AKU & Cimage
-#### Dedicated Programmer passionate about Backend Solutions & Open Source 
+#### Backend Engineer passionate about Scalable Architecture & Intelligent Systems
 
 <br>
 
-- 😄 **Interests:** Backend Development / Open Source / Lightweight Linux (Bodhi/antiX)
-- 🔭 **Current Project:** Building **HealthCurve AI** (OCR-based medication scheduling)
-- 🌱 **Learning:** Mastering **Go** and **LangChain** for AI integrations
-- 👯 **Looking to collaborate on:** PSF (Python Software Foundation) projects & GSoC 2026
-- 🛠️ **Favorite Stack:** Python + SQLite + HTML/CSS
+- 💼 **Professional Focus:** Backend Development, Open Source, and Lightweight Linux (Bodhi/antiX)
+- 🔭 **Current Initiative:** Developing **HealthCurve AI** — An OCR-based medication scheduling and clinical management solution
+- 🌱 **Continuous Learning:** Exploring **Go** and **LangChain** for high-performance backend systems and AI agent integrations
+- 🤝 **Collaboration Goals:** Open Source initiatives and Python Software Foundation (PSF) projects
+- 🛠️ **Core Stack:** Python + Flask + SQLite
 
 </br>
+
+---
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aman-raj-981a31278" target="_blank">
@@ -26,24 +28,26 @@
   <a href="https://x.com/AmanCodeLogs" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-   &nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://discord.gg/8pdcuDyJfB" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-   &nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.reddit.com/user/AmanCodeLogs/" target="_blank">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
   </a>
-   &nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:aman.cmviii@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
+---
+
 <br/>
 
 <details open> 
-  <summary><h2>🛠️ My Favorite Tools & Tech</h2></summary>
+  <summary><h2>🛠️ Technical Expertise & Toolchain</h2></summary>
 
   <h3>👨‍💻 Programming Languages</h3>
   <p>
@@ -69,18 +73,18 @@
     <a href="https://www.langchain.com/" target="_blank"><img src="https://img.shields.io/badge/LangChain-121011?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" /></a>
   </p>
 
-  <h3>🚀 Deployment & Tools</h3>
+  <h3>🚀 Deployment & Infrastructure</h3>
   <p>
     <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a>
     <a href="https://www.arduino.cc/" target="_blank"><img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" /></a>
     <a href="https://vercel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" /></a>
     <a href="https://www.netlify.com/" target="_blank"><img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" /></a>
-    <a href="https://render.com/" target="_blank"><img src="https://skillicons.dev/icons?i=render" alt="Render" /></a>
+    <a href="https://render.com/" target="_blank"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" /></a>
     <a href="https://railway.app/" target="_blank"><img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" /></a>
     <a href="https://n8n.io/" target="_blank"><img src="https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" /></a>
   </p>
 
-  <h3>🗄️ Databases & OS</h3>
+  <h3>🗄️ Databases & Operating Systems</h3>
   <p>
     <a href="https://www.mongodb.org/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" /></a>
     <a href="https://www.sqlite.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" /></a>
@@ -102,5 +106,5 @@
 </details>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/AmanCodeLogs/count.svg" alt="Visitor's Count" />
+  <img src="https://komarev.com/ghpvc/?username=AmanCodeLogs&color=blueviolet&style=flat-square" alt="Visitor's Count" />
 </p>
