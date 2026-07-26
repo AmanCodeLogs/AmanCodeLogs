@@ -1,19 +1,4 @@
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/AmanCodeLogs/AmanCodeLogs/output/dark_mode.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/AmanCodeLogs/AmanCodeLogs/output/light_mode.svg"
-    />
-    <img
-      alt="Aman's ASCII profile card"
-      src="https://raw.githubusercontent.com/AmanCodeLogs/AmanCodeLogs/output/light_mode.svg"
-    />
-  </picture>
-</p>
+![Aman's GitHub Stats](./dark_mode.svg)
 
 ### Hi there 👋
 <p align="left">
