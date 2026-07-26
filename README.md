@@ -1,3 +1,20 @@
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/AmanCodeLogs/AmanCodeLogs/output/dark_mode.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/AmanCodeLogs/AmanCodeLogs/output/light_mode.svg"
+    />
+    <img
+      alt="Aman's ASCII profile card"
+      src="https://raw.githubusercontent.com/AmanCodeLogs/AmanCodeLogs/output/light_mode.svg"
+    />
+  </picture>
+</p>
+
 ### Hi there 👋
 <p align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=436&lines=I'm+Aman+Raj;Software+Developer;Backend+Engineer;Open+Source+Contributor" alt="Aman Raj" />
