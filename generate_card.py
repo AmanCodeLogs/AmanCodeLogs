@@ -170,8 +170,8 @@ full_svg = f"""<svg width="1250" height="680" xmlns="http://www.w3.org/2000/svg"
   </g>
   <text x="{STATS_X}" y="385" class="animated-line" style="animation-delay: 3.0s;"><tspan class="text-dim">. </tspan><tspan class="keyword">site:</tspan><tspan class="text-dim"> ............... </tspan><tspan class="string">aman-raj.dev</tspan></text>
   <text x="{STATS_X}" y="405" class="animated-line" style="animation-delay: 3.1s;"><tspan class="text-dim">. </tspan><tspan class="keyword">telegram:</tspan><tspan class="text-dim"> ........... </tspan><tspan class="string">t.me/AmanCodeLogs</tspan></text>
-  <text x="{STATS_X}" y="425" class="animated-line" style="animation-delay: 3.2s;"><tspan class="text-dim">. </tspan><tspan class="keyword">email:</tspan><tspan class="text-dim"> .............. </tspan><tspan class="string">hello@aman-raj.dev</tspan></text>
-  <text x="{STATS_X}" y="445" class="animated-line" style="animation-delay: 3.3s;"><tspan class="text-dim">. </tspan><tspan class="keyword">linkedin:</tspan><tspan class="text-dim"> ........... </tspan><tspan class="string">linkedin.com/in/AmanCodeLogs</tspan></text>
+  <text x="{STATS_X}" y="425" class="animated-line" style="animation-delay: 3.2s;"><tspan class="text-dim">. </tspan><tspan class="keyword">email:</tspan><tspan class="text-dim"> .............. </tspan><tspan class="string">aman.cmviii@gmail.com</tspan></text>
+  <text x="{STATS_X}" y="445" class="animated-line" style="animation-delay: 3.3s;"><tspan class="text-dim">. </tspan><tspan class="keyword">linkedin:</tspan><tspan class="text-dim"> ........... </tspan><tspan class="string">linkedin.com/in/amancodelogs</tspan></text>
 
   <!-- 4. GitHub Stats Section (Now Dynamic!) -->
   <g class="animated-line" style="animation-delay: 3.6s;">
