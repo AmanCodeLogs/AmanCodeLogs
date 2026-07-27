@@ -26,12 +26,12 @@ jobs:
         # The GITHUB_TOKEN is automatically provided by GitHub Actions
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python generate_card.py
+        run: python main.py
 
       - name: Commit and Push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add dark_mode.svg
+          git add dark_mode.svg light_mode.svg
           git commit -m "auto-update: github stats card" || exit 0
           git push

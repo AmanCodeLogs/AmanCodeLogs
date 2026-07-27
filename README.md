@@ -1,4 +1,5 @@
-![Aman's GitHub Stats](./dark_mode.svg)
+![Aman's GitHub Stats](./dark_mode.svg#gh-dark-mode-only)
+![Aman's GitHub Stats](./light_mode.svg#gh-light-mode-only)
 
 ### Hi there 👋
 <p align="left">
