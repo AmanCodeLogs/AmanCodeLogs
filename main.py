@@ -147,7 +147,7 @@ def generate_svg_content(theme: dict, stats: Tuple[str, str, str], ascii_block: 
     <text x="{STATS_X}" y="100" class="text-title">aman raj <tspan class="text-dim">-------------------------------------</tspan></text>
   </g>
   <text x="{STATS_X}" y="125" class="animated-line" style="animation-delay: 1.3s;"><tspan class="text-dim">.</tspan><tspan class="keyword">role:</tspan><tspan class="text-dim"> .................... </tspan><tspan class="variable">software developer | backend engineer</tspan></text>
-  <text x="{STATS_X}" y="145" class="animated-line" style="animation-delay: 1.4s;"><tspan class="text-dim">.</tspan><tspan class="keyword">edu:</tspan><tspan class="text-dim"> ..................... </tspan><tspan class="variable">bca student @ knowledge university patna</tspan></text>
+  <text x="{STATS_X}" y="145" class="animated-line" style="animation-delay: 1.4s;"><tspan class="text-dim">.</tspan><tspan class="keyword">edu:</tspan><tspan class="text-dim"> ..................... </tspan><tspan class="variable">bca student @  cimage (aku) patna</tspan></text>
   <text x="{STATS_X}" y="165" class="animated-line" style="animation-delay: 1.5s;"><tspan class="text-dim">.</tspan><tspan class="keyword">side:</tspan><tspan class="text-dim"> .................... </tspan><tspan class="variable">building cross-device ai agents in go</tspan></text>
   <text x="{STATS_X}" y="185" class="animated-line" style="animation-delay: 1.6s;"><tspan class="text-dim">.</tspan><tspan class="keyword">uptime:</tspan><tspan class="text-dim"> .................. </tspan><tspan class="variable">graduating class of 2028</tspan></text>
   
